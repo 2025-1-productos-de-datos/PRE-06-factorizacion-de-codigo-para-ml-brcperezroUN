@@ -1,7 +1,7 @@
 import argparse
 
 
-def parse_arguments():
+def parse_argument():
     parser = argparse.ArgumentParser(description="Train an sklearn model.")
 
     parser.add_argument(
